@@ -75,7 +75,7 @@ h1{
   #results {
     position: absolute;
     top: 50%; 
-    right:40px;
+    right:%40;
   }
 
   #wikipedia-links > li{
